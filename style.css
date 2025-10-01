@@ -1,6 +1,4 @@
-*:{
-    privet
-}
+
 body {
         
     margin: 0;
@@ -69,4 +67,5 @@ body {
 .login-container a:hover {
     text-decoration: underline;
 }
+
 
